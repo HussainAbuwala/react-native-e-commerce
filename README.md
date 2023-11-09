@@ -22,9 +22,10 @@
 ## Tools & Languages Used
 
 1. React Native
-2. Expo
-3. React Navigation
-4. Express
-5. Zustand
-6. Drizzle ORM
-7. Neon Postgres
+2. TypeScript
+3. Expo
+4. React Navigation
+5. Express
+6. Zustand
+7. Drizzle ORM
+8. Neon Postgres
